@@ -1,4 +1,27 @@
-#Dangu suppliers ltd.
-Entrepreneurship act is a coding project designed to explore and analyse the behavior , decision and strategies that define successful entrepreneurship. This project combines  technology and businesses  concepts  to demonstrate  how entrepreneurship thinking can be    applied   in a real world solution. The main goal is to create a business understanding. 
-It creates jobs oportunities in the society.
-It helps in the supply of construction commodities all over the country.
+# Hi, I'm JOEL  👋
+
+## 🚀 About Me
+I am a student passionate about technology, programming, and problem solving at Mahannaim International College.
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📂 Project Description
+This repository contains my project: [Project Name].
+It focuses on [what your project does].
+
+## ⚙️ Installation
+1. Clone the repo:
+   git clone https://github.com/your-username/repo-name.git
+2. Open the project folder
+3. Run the project
+
+## 📬 Contact Me
+- Email: your-email@example.com
+- GitHub: https://github.com/your-username
+
+## ⭐ Acknowledgements
+Thanks for checking out my project!
