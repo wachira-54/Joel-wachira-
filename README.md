@@ -10,8 +10,8 @@ I am a student passionate about technology, programming, and problem solving at 
 - Git & GitHub
 
 ## 📂 Project Description
-This repository contains my project: [Project Name].
-It focuses on [what your project does].
+This repository contains my project: [Entrepreneuria Acts].
+It focuses on [creating solutions].
 
 ## ⚙️ Installation
 1. Clone the repo:
@@ -20,8 +20,8 @@ It focuses on [what your project does].
 3. Run the project
 
 ## 📬 Contact Me
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
+- Email: wambugu.joelwachira54@gmal.com
+- GitHub: https://github.com/wachira-54
 
 ## ⭐ Acknowledgements
 Thanks for checking out my project!
