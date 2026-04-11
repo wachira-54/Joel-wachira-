@@ -15,7 +15,7 @@ It focuses on [creating solutions].
 
 ## ⚙️ Installation
 1. Clone the repo:
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/wachira-54/wachira-54.git
 2. Open the project folder
 3. Run the project
 
